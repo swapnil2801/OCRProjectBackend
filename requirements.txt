@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+passlib[bcrypt]
+PyJWT
+pydantic
+python-multipart
+jose
+pytesseract 
+pillow 
+pdf2image 
+PyPDF2
+pymupdf
+frontend
+pdfplumber
